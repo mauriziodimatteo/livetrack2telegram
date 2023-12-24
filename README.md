@@ -51,7 +51,7 @@ To create a new channel, follow the [official instructions](https://telegram.org
 - open telegram from your web browser (web.telegram.org), open the channel and take note of the URL. It should be something like `https://web.telegram.org/a/#-1001927033308`, the last portion (e.g. `-1001927033308`)  is the Channel ID. Go to the `Code.gs` file and set it as the value for the `TELEGRAM_CHAT_ID` constant.
 
 ### Configure Garmin LiveTrack
-To setup LiveTrack follow the [official instructions](https://support.garmin.com/en-US/?faq=HbqxxbiBGA3mDhlLX4GUw8) and don't forget to add your email alias a recipient (e.g. `johndoe+garminlivetrack@gmail.com`).
+To setup LiveTrack follow the [official instructions](https://support.garmin.com/en-US/?faq=HbqxxbiBGA3mDhlLX4GUw8) and don't forget to add your email alias as a recipient (e.g. `johndoe+garminlivetrack@gmail.com`).
 
 
 ### Configure Apps Script
