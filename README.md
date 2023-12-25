@@ -20,7 +20,7 @@ Down below the final result (my messages are in Italian, but you get the idea)
 ![Example of Notifications](./img/android_example.jpeg)
 
 
-## Pre-requisites
+## Prerequisites
 Before getting started you need:
 - a gmail account
 - a Telegram account
